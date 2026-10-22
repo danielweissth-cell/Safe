@@ -171,8 +171,6 @@ void loop() {
 
 ---
 
-## 🤝 Автор
 
-Daniel Belyi
 
 
